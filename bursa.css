@@ -1,0 +1,26 @@
+.card{
+	width: 350px;
+	height: 550px;
+	margin: 15px;
+	background-color: white;
+
+
+}
+button{width: 100%;
+	padding: 12px;
+	background: red;
+
+}
+
+
+
+   img{
+	width: 100%       
+
+}
+
+.parent{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
